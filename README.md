@@ -35,3 +35,5 @@ Technical Proficiency: The report demonstrates a solid understanding of chemical
 Comprehensive Analysis: By combining operational data with technology and safety standards, the report presents a holistic view of the plant's functions, showcasing the ability to analyze a complex industrial system from multiple perspectives.
 
 Professional Reporting Skills: The project is structured as a formal report, demonstrating the ability to compile, organize, and present technical information clearly and concisely, which is a vital skill in a professional engineering environment.
+[KFL In-Plant Urea Report- Aman Surana.pdf](https://github.com/user-attachments/files/21565585/KFL.In-Plant.Urea.Report-.Aman.Surana.pdf)
+
